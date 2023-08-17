@@ -1,0 +1,18 @@
+.heading
+{
+    margin-top: 0px;
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius: 23px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+body{
+    background-size: cover;
+}
